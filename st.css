@@ -1,0 +1,117 @@
+.bannar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-image: url(11.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+.d1,.d2{background-color: rgb(240, 16, 16);
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 50px;
+    opacity: 0.9;
+    padding:0px 20px ;
+
+}
+.d2{background-color: rgb(28, 177, 140);
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 50px;
+    opacity: 0.9;
+    padding:0px 20px ;
+
+
+}
+.d3{background-color: rgb(150, 86, 89);
+    height: 500px;
+    text-align: center;
+    margin-right: 100px;
+    border-radius: 50px;
+    opacity: 0.9;
+    margin-top: 100px;
+    padding:0px 20px ;
+
+
+}
+
+
+.d4{background-color: rgb(196, 106, 106);
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;  
+    margin-bottom: 100px;
+    border-radius: 50px;
+    opacity: 0.9;
+    padding:0px 20px ;
+
+
+}
+.d5{background-color: rgb(104, 187, 101);
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 100px;
+    border-radius: 50px;
+    opacity: 0.9;
+    padding:0px 20px ;
+
+
+
+}
+.d6{background-color: rgb(120, 172, 221);
+    height: 500px;
+    text-align: center;
+    margin-top: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    border-radius: 50px;
+    opacity: 0.9;
+    padding:0px 20px ;
+
+
+}
+.p1{font-size: 25px;
+
+}
+.b1{background-color: black;
+    font-size: 40px;
+    opacity: 0.6;
+    border-radius: 50px;
+    color: rgb(245, 245, 248); 
+    bottom: 0;
+}
+.b1:hover{background-color: rgb(177, 80, 80);
+    font-size: 40px;
+    opacity: 0.6;
+    border-radius: 50px;
+    color: rgb(135, 214, 90); 
+    margin-bottom: 20px;
+} 
+
+
+.bannar2{grid-template-rows: 1fr; 
+    display: grid;
+    
+
+
+}
+.db1{background-color:rgb(33, 37, 2);
+    height: 200px;
+
+}
+.hb{font-family: serif;
+    font-size: 80PX;
+    font-style: obliques;
+    text-align: center; 
+    color: rgb(164, 218, 231);
+
+}
